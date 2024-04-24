@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("../images/japanise.png");
+    background-size: cover;
+    background-position: auto;
+    color: white;
+    zoom: 57%
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    padding: 10px;
+}
+
+.section1 img{
+    float: left;
+    padding: 10px;
+    width: 700px;
+    height: 550px;
+}
+
+.clearfix{
+    overflow: auto;
+}
+
+.section1 p{
+    font-size: xx-large;
+}
+
+.section2 img{
+    float: left;
+    padding: 10px;
+    width: 700px;
+    height: 550px;
+    
+}
+
+.section2 p{
+    font-size: xx-large;
+}
+
+.section2 ul{
+    font-size: xx-large;
+    float: left;
+}
+
+.section3 p{
+    font-size: xx-large;
+}
+
+.section3 img{
+    float: left;
+    padding: 10px;
+    width: 700px;
+    height: 550px; 
+}
+
+a{
+    color: white;
+}
+
+.section4 img{
+    float: left;
+    padding: 10px;
+    width: 700px;
+    height: 550px; 
+
+}
+
+.section4 p{
+    font-size: xx-large;
+}
+h1{
+    font-size: xx-large;
+}
+
+
+
